@@ -23,3 +23,4 @@ def func2(nums,k):
     return nums
 
 print(func2(nums2,4))
+
